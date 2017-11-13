@@ -1,6 +1,6 @@
 <template>
-    <div id="app">
-		B
+    <div>
+		mistake
     </div>
 </template>
 
